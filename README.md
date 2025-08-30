@@ -1,3 +1,5 @@
+![Adarsh](https://user-images.githubusercontent.com/98210987/181611556-89049ed6-89f8-4227-9a56-872bddcfa38b.png)
+
 # 💫 About Me:
 
 🔭 I’m currently working as an SDE 1 at Reliance Jio, with a strong focus on Backend Development, Cloud Architecture, System Design, and Data Structures & Algorithms. I’m passionate about building scalable systems and solving complex technical challenges.
